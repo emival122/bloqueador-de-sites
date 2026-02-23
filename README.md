@@ -34,8 +34,8 @@ O **Bloqueador de Sites** é uma aplicação desktop desenvolvida em Python que 
 
 ## 📘 Documentação
 Para mais detalhes sobre o funcionamento do sistema:
-- 📄 **Documentação Técnica:** `docs/tecnico.md`
-- 👤 **Manual do Usuário:** `docs/manual-usuario.md`
+* [📄 **Documentação Técnica**](./docs/tecnico.md): Explicação das funções, tratamento de dados e lógica CRUD.
+* [👤 **Manual do Usuário**](./docs/manual_usuario.md): Guia passo a passo para utilizar todas as ferramentas do sistema.
 
 ---
 
