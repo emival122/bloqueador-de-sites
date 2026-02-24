@@ -15,7 +15,7 @@ O **Bloqueador de Sites** é uma aplicação desktop desenvolvida em Python que 
 ## 🎯 Motivação
 
 Este projeto foi desenvolvido com o objetivo de praticar
-manipulação de arquivos do sistema, interfaces gráficas com Tkinter
+manipulação de arquivos do sistema, interfaces gráficas com tkinter
 e controle de permissões no Windows.
 
 
@@ -70,4 +70,4 @@ Este projeto está sob a **Licença MIT**. Uso livre para fins educacionais e pe
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/emival122/bloqueador-de-sites-python.git
+git clone https://github.com/emival122/bloqueador-sites-python.git
