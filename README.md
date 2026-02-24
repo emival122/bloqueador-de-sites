@@ -13,10 +13,11 @@
 O **Bloqueador de Sites** é uma aplicação desktop desenvolvida em Python que permite restringir ou liberar o acesso a sites específicos no sistema operacional Windows. O bloqueio é realizado por meio da edição controlada do arquivo `hosts`, garantindo eficiência e baixo consumo de recursos.
 
 ## 🎯 Motivação
+
 Este projeto foi desenvolvido com o objetivo de praticar
 manipulação de arquivos do sistema, interfaces gráficas com Tkinter
 e controle de permissões no Windows.
----
+
 
 ## ✨ Funcionalidades
 - 🚫 Bloqueio de sites personalizados
